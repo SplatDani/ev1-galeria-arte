@@ -4,5 +4,4 @@
   <line x1="40" y1="150" x2="360" y2="150" stroke="#7a8471" stroke-width="12"/>
   <circle cx="120" cy="150" r="26" fill="#b5651d"/>
   <circle cx="280" cy="150" r="26" fill="#4a6d8c"/>
-  <text x="200" y="290" font-family="Georgia, serif" font-size="16" fill="#333" text-anchor="middle">Equilibrio - Técnica mixta</text>
 </svg>
