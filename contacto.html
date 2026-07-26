@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lienzo Vivo | Galería de Arte - Contacto</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Lienzo Vivo</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="galeria.html">Galería</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Contáctanos</h2>
+    <p>¿Tienes una consulta, quieres comprar una obra o vender la tuya? Completa el siguiente formulario y te responderemos a la brevedad.</p>
+
+    <form action="#" method="post">
+      <label for="nombre">Nombre completo</label>
+      <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre y apellido" minlength="3" required>
+
+      <label for="correo">Correo electrónico</label>
+      <input type="email" id="correo" name="correo" placeholder="ejemplo@correo.com" required>
+
+      <label for="tipo_solicitud">Tipo de solicitud</label>
+      <select id="tipo_solicitud" name="tipo_solicitud" required>
+        <option value="" disabled selected>Selecciona una opción</option>
+        <option value="compra">Compra</option>
+        <option value="consulta">Consulta</option>
+        <option value="venta">Venta</option>
+      </select>
+
+      <label for="mensaje">Mensaje</label>
+      <textarea id="mensaje" name="mensaje" placeholder="Cuéntanos en qué podemos ayudarte" minlength="10" required></textarea>
+
+      <button type="submit">Enviar mensaje</button>
+    </form>
+
+    <div class="info-contacto">
+      <h2>Información de contacto</h2>
+      <p><strong>Dirección:</strong> Av. Las Artes 1234, Santiago, Chile</p>
+      <p><strong>Teléfono:</strong> +56 9 1234 5678</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Lienzo Vivo - Galería de Arte en línea</p>
+  </footer>
+
+</body>
+</html>

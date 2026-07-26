@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#0f2027"/>
+  <path d="M0,220 C80,160 140,260 220,190 C300,120 340,220 400,180 L400,300 L0,300 Z" fill="#2c7873"/>
+  <circle cx="320" cy="70" r="34" fill="#f2e9a1"/>
+  <text x="200" y="285" font-family="Georgia, serif" font-size="16" fill="#f4ede4" text-anchor="middle">Horizonte - Acuarela digital</text>
+</svg>

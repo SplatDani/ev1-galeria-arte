@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#1d1d2b"/>
+  <polygon points="200,40 340,260 60,260" fill="#e8b13b"/>
+  <polygon points="200,120 280,260 120,260" fill="#c94f4f"/>
+  <text x="200" y="285" font-family="Georgia, serif" font-size="16" fill="#f4ede4" text-anchor="middle">Fragmentos - Acrílico</text>
+</svg>
